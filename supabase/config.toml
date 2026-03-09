@@ -1,0 +1,4 @@
+project_id = "afhbhvamblivhnukxdis"
+
+[functions.book-ai]
+verify_jwt = false
